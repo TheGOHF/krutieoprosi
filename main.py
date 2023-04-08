@@ -42,6 +42,7 @@ def create_table():
 if __name__ == '__main__':
     main()
 
+
 # эксперименты с апи
 # data = json.dumps({
 #     "username": username,
