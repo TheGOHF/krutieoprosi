@@ -12,7 +12,7 @@ app.config['SECRET_KEY'] = 'amogus_sus'
 login_manager = LoginManager()
 login_manager.init_app(app)
 
-
+a = 1
 # username = 'TheGOHF'
 # password = 'admin'
 
